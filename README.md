@@ -1,5 +1,5 @@
 # Banjara - A Way of Life
-Welcome to Banjara, a world of exploration and discovery where every journey becomes an unforgettable adventure. Banjara is more than just a travel website; it's your trusted companion on the path to uncovering the beauty and wonders of our planet.
+Welcome to Banjara, world of exploration and discovery where every journey becomes an unforgettable adventure. Banjara is more than just a travel website; it's your trusted companion on the path to uncovering the beauty and wonders of our planet.
 ## Overview
 ### Explore the World with Ease
 Banjara simplifies the art of exploration, putting the world at your fingertips. Whether you dream of strolling through historic cities, basking on pristine beaches, or trekking through untouched nature, Banjara is your gateway to diverse and enriching experiences.
